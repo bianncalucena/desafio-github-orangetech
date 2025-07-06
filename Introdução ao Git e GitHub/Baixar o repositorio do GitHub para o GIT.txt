@@ -1,0 +1,8 @@
+Passos para baixar o repositório 
+
+1º Abra o repositório no GitHub
+2º Copie o link HTTPS, SSH ou GitHub CLI do repositório
+O caminho abaixo será usando o link do HTTPS 
+3º Abra a pasta que você quer baixar ele 
+4º Clique com o botão direito e abra o "git bash here"
+5º Dentro do GIT escreva - > git clone link_copiado_do_HTTPS e aperte enter

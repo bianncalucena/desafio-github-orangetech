@@ -1,0 +1,4 @@
+1º Abrir o GIT e colocar o comando -> git add . 
+Para verificar o status usar o comando -> git status
+2º Usar o comando -> git commit -m "colocar o status da alteração que foi feita"
+3º Para enviar os arquivos locais para nuvem usar o comando git push -> git push origin main
