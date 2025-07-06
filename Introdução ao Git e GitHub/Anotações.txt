@@ -1,0 +1,46 @@
+Para fazer o download do Git -> https://git-scm.com/downloads
+
+Diferença do Git e GitHub - > o Git é a ferramenta que permite o controle de versão do código, enquanto o GitHub é o local onde esse código é armazenado e compartilhado, promovendo a colaboração entre desenvolvedores.
+
+Git Bash -> é um terminal estendido para otimizar o uso do GIT 
+
+Comandos básicos do Git:
+
+- git init
+
+Esse comando inicia um novo repositório Git em um diretório. Para criar um novo repositório enquanto especifica o nome do projeto, use o seguinte comando:
+
+git init [nome do projeto]
+
+- git add
+
+Esse comando é usado para preparar alterações em arquivos, preparando-os para o próximo commit:
+
+git add nome_do_arquivo
+
+- git commit
+
+Use esse comando para criar uma mensagem de commit para as alterações, tornando-as parte do histórico do seu projeto:
+
+git commit -m "Adicionar novo recurso"
+
+- git status
+
+Esse comando exibe informações importantes sobre as modificações e o status de preparação de seus arquivos.
+
+git status
+
+- git log
+
+Em sua forma básica, o git log permite visualizar uma lista cronológica do histórico de commits:
+
+git log
+
+
+- git config
+
+Esse comando configura vários aspectos do Git, incluindo informações e preferências do usuário. Por exemplo, digite esse comando para definir seu endereço de e-mail para os commits:
+
+git config --global user.email "seu-email@exemplo.com"
+O sinalizador -global aplica as configurações universalmente, afetando seu repositório local.
+
